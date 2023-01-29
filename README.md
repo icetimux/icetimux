@@ -1,6 +1,6 @@
 ## Educational/Work History
 
-* 01/2023 - Senior Software Engineer at BakerWare B.V.</li>
+* 01/2023 - Software Engineer II at BakerWare B.V.</li>
 * 01/2023 - Retire from Frank B.V.</li>
 * 01/2022 - Software Developer at Frank B.V.</li>
 * 12/2021 - Retire from Social Blue N.V.</li>
