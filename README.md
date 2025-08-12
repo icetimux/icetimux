@@ -1,5 +1,6 @@
 ## Educational/Work History
 
+* 06/2025 - Senior Backend Developer at Soly NL SSC B.V. 
 * 04/2023 - Senior Software Egineer at Serverius B.V.
 * 01/2023 - Retire from Frank B.V.
 * 01/2022 - Software Engineer at Frank B.V.
